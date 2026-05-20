@@ -49,4 +49,4 @@ Me especializo en transformar procesos manuales lentos en sistemas automatizados
 
 ## 📫 Contacto
 - **LinkedIn:** [Tu link aquí]
-- **Email:** [Tu correo aquí]
+- **Email:** alexis970924@gmail.com
