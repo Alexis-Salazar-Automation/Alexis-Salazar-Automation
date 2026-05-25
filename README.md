@@ -1,8 +1,8 @@
 # ¡Hola! Soy Alexis Salazar 👋
 
-### Ingeniero de Automatización | Desarrollador de Soluciones Python & Cloud
+### Especialista en Automatización de Procesos | Soluciones Python & Cloud Expert
 
-Me especializo en transformar procesos manuales lentos en sistemas automatizados de alto rendimiento. Mi enfoque es generar **ROI inmediato** para las empresas mediante la optimización de flujos de datos, integración de APIs y desarrollo de software a medida.
+Me especializo en transformar procesos manuales lentos en ecosistemas digitales de alto rendimiento. Mi enfoque se centra en generar **ROI inmediato** mediante la optimización de flujos de datos, integración de APIs y desarrollo de software robusto a medida.
 
 ---
 
@@ -11,42 +11,42 @@ Me especializo en transformar procesos manuales lentos en sistemas automatizados
 ### 📞 [Omnichannel Call Center Engine](https://github.com/Alexis-Salazar-Automation/Omnichannel-Call-Center-Automation-Suite)
 **Impacto:** Gestión de +45,000 registros con latencia mínima.
 - Sistema de escritorio desarrollado en **Python** para la gestión integral de cobranza.
-- Implementación de seguridad biométrica/sesión (Heartbeat), grabación de audio dual WASAPI y sincronización en tiempo real con **Supabase**.
-- Autodescubrimiento de red (ARP/UDP) para vinculación con dispositivos móviles.
+- Implementación de seguridad de sesión (Heartbeat), grabación de audio dual WASAPI y sincronización en tiempo real con **Supabase**.
+- Autodescubrimiento de red (ARP/UDP) para vinculación automática con dispositivos móviles.
 
-### 🤖 Suite de Automatización de Cartera (Python & GitHub Actions)
-- Automatización del ciclo de vida de la cartera de clientes.
-- Descarga masiva desde APIs privadas y generación de reportes comparativos diarios.
-- Implementación de **respaldos automáticos** y notificaciones vía correo electrónico.
+### 🤖 [Portfolio Sync Engine](https://github.com/Alexis-Salazar-Automation/Enterprise-Automation-Scripts/tree/main/Python/Portfolio-Sync-Engine)
+- Orquestador de datos automatizado mediante **GitHub Actions** (CI/CD).
+- Extracción concurrente desde APIs privadas, procesamiento con **Pandas** y centralización de la "Fuente de Verdad" en la nube.
+- Implementación de reportes de variaciones diarios y respaldos automáticos.
 
-### 📊 Sistema de Gestión de Convenios y Domiciliaciones (Google Apps Script)
+### 📊 [Agreement & Domiciliation Suite](https://github.com/Alexis-Salazar-Automation/Enterprise-Automation-Scripts/tree/main/Google-Apps-Script)
 **Impacto:** Reducción del tiempo de respuesta de formularios de 3 minutos a 5 segundos.
-- Desarrollo de lógica de filtrado en cascada para manejar bases de datos de 60,000 registros.
-- Sistema de alertas automáticas para vencimientos de convenios (7 días antes).
-- Estandarización completa de procesos de registro de cobranza.
+- Desarrollo de lógica de filtrado en cascada para manejar bases de datos de +60,000 registros en **Google Apps Script**.
+- Sistema de auditoría automática que concilia estatus locales vs. bases maestras (0% de error operativo).
+- Estandarización completa de procesos y generación automatizada de acuses en PDF.
 
-### 🏛️ Automatización de Consultas Gubernamentales (Scrapers Legacy)
-- Desarrollo de scripts para consulta masiva de adeudos prediales en múltiples municipios (+25,000 registros mensuales).
-- Bypass de sistemas de seguridad legacy mediante gestión dinámica de **Tokens y Cookies**.
+### 🏛️ [Govt Tax Scraping Suite](https://github.com/Alexis-Salazar-Automation/Enterprise-Automation-Scripts/tree/main/Google-Apps-Script/Govt-Tax-Scraping-Suite)
+- Desarrollo de Web Scrapers para consulta masiva de adeudos prediales (+25,000 registros mensuales).
+- Bypass de sistemas de seguridad legacy mediante gestión dinámica de **Tokens y Cookies de sesión**.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
 
-- **Lenguajes:** Python (Avanzado), JavaScript (Apps Script), SQL.
-- **Backend & DB:** Supabase, PostgreSQL, SQLite, REST APIs.
-- **Automatización:** Playwright, Web Scraping, GitHub Actions, RegEx.
+- **Lenguajes:** Python (Pandas, Requests, Playwright), JavaScript (Apps Script), SQL.
+- **Backend & DB:** Supabase (PostgreSQL), SQLite, REST APIs.
+- **Automatización:** GitHub Actions, Web Scraping, RPA, RegEx.
 - **UI/UX:** CustomTkinter, PyWebView, HTML5/CSS3.
 
 ---
 
 ## 📈 Estadísticas de Impacto
-- **+80% de ahorro en tiempo** en procesos de descarga de cartera postventa.
-- **0% de error de captura** mediante formularios estandarizados y reglas de negocio automatizadas.
-- **Sistemas Offline-First** que garantizan la integridad de los datos sin importar la estabilidad de la red.
+- **+80% de ahorro en tiempo** en procesos de consolidación de datos masivos.
+- **Integridad de Datos al 100%** mediante sistemas de auditoría y validación automática.
+- **Sistemas Offline-First** que garantizan la continuidad de la operación sin importar la red.
 
 ---
 
 ## 📫 Contacto
-- **LinkedIn:** [Tu link aquí]
-- **Email:** alexis970924@gmail.com
+- **LinkedIn:** [linkedin.com/in/alexis-salazar-flores-a103601aa](https://www.linkedin.com/in/alexis-salazar-flores-a103601aa)
+- **Email:** [alexis970924@gmail.com](mailto:alexis970924@gmail.com)
